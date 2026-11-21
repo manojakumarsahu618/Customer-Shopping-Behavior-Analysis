@@ -138,7 +138,7 @@ Developed an interactive Power BI dashboard to visualize customer shopping behav
 
 ### Dashboard Preview
 
-![Customer Shopping Behavior Dashboard](Power bi.PNG)
+![Customer Shopping Behavior Dashboard](Powerbi.PNG)
 
 ## Key Business Insights
 
