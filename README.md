@@ -61,7 +61,6 @@ The project follows an end-to-end data analytics workflow using Python, PostgreS
 | Python | Data cleaning and exploratory analysis |
 | Pandas | Data manipulation and preprocessing |
 | NumPy | Numerical operations |
-| Matplotlib | Data visualization |
 | Seaborn | Statistical visualization |
 | PostgreSQL | Database management |
 | SQL | Business analysis and querying |
